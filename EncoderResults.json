@@ -1,0 +1,27 @@
+[
+  {
+    "prefix_length": 50,
+    "bert_score": 0.6539,
+    "bart_score": -3.4748
+  },
+  {
+    "prefix_length": 100,
+    "bert_score": 0.6647,
+    "bart_score": -3.3926
+  },
+  {
+    "prefix_length": 200,
+    "bert_score": 0.6861,
+    "bart_score": -3.1957
+  },
+  {
+    "prefix_length": 300,
+    "bert_score": 0.7028,
+    "bart_score": -3.0869
+  },
+  {
+    "prefix_length": 500,
+    "bert_score": 0.7198,
+    "bart_score": -3.0775
+  }
+]
