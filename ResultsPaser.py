@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from transformers import AutoTokenizer
 from huggingface_hub import login
 
-HF_TOKEN = "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"
+HF_TOKEN = ""
 login(token=HF_TOKEN)
 
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-8B")
